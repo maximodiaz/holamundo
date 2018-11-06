@@ -8,9 +8,11 @@ namespace Hola_Mundo
 {
     class Program
     {
-        static void Main(string[] args)
+       static void Main(string[] args)
         {
             Console.WriteLine("Hola Mundo");
+            Console.WriteLine("Maximo Diaz");
+            Console.WriteLine("20163584");
 
             Console.Read();
         }
